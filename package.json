@@ -147,7 +147,7 @@
     "dotenv": "8.6.0",
     "dotenv-flow": "3.2.0",
     "ecpair": "2.1.0",
-    "elliptic": "6.5.4",
+    "elliptic": "6.5.7",
     "escape-goat": "3.0.0",
     "evt": "1.10.1",
     "express": "4.17.3",
