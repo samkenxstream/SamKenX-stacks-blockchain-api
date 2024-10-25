@@ -154,7 +154,7 @@
     "express-list-endpoints": "5.0.0",
     "express-winston": "4.2.0",
     "getopts": "2.3.0",
-    "http-proxy-middleware": "2.0.1",
+    "http-proxy-middleware": "2.0.7",
     "jsonc-parser": "3.0.0",
     "jsonrpc-lite": "2.2.0",
     "lru-cache": "6.0.0",
