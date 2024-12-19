@@ -162,7 +162,7 @@
     "node-fetch": "2.6.7",
     "node-pg-migrate": "6.2.1",
     "p-queue": "6.6.2",
-    "path-to-regexp": "6.2.0",
+    "path-to-regexp": "6.3.0",
     "pg": "8.7.1",
     "pg-copy-streams": "5.1.1",
     "pg-cursor": "2.7.1",
